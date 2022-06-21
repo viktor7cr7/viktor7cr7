@@ -28,7 +28,7 @@ I am a beginner QA Engineer  <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 - :palm_tree: In my free time (a rarity) I like to play street football, FIFA. Fishing is fun too.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-yellow?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/viktor-leonov-405406239)                                                                                                             
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-yellow?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/viktor-leonov-405406239)                                                                                                             
 
                                                                                   
                                                                                    
