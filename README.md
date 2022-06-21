@@ -20,3 +20,15 @@
   <img src="https://media.giphy.com/media/XCxjzveGa47DOd8zuq/giphy.gif" width="5px"/>
 </h1>                                                                                             
                                                                                                            
+### :man_technologist: About Me :
+I am a beginner QA Engineer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia                                                                                   
+- :telescope: I participated in the practice of two mobile applications. The main scenarios are smoke testing, critical path and cross-browser testing
+
+- :ballot_box_with_check: Graduated from testing courses by Artem Rusov and Vadim Ksendzov, as well as Test Automation + Programming in Python from scratch, now after commercial experience in the courses, I am looking for my dream job
+
+- :palm_tree: In my free time (a rarity) I like to play street football, FIFA. Fishing is fun too.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-yellow?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/viktor-leonov-405406239)                                                                                                             
+
+                                                                                  
+                                                                                   
