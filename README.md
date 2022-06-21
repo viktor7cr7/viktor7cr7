@@ -18,8 +18,9 @@
                                                                                              
 <h1>
   <img src="https://media.giphy.com/media/XCxjzveGa47DOd8zuq/giphy.gif" width="5px"/>
-</h1>                                                                                             
-                                                                                                           
+</h1>
+  
+---                                                                                                           
 ### :man_technologist: About Me :
   
   
@@ -32,7 +33,7 @@ Hi. I am a beginner QA Engineer  <img src="https://media.giphy.com/media/WUlplcM
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-yellow?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/viktor-leonov-405406239)                                                                                                             
 
-
+---
 ### :hammer_and_wrench: Languages and Tools :
  
 <div id="header" align="center">  
@@ -49,6 +50,14 @@ Hi. I am a beginner QA Engineer  <img src="https://media.giphy.com/media/WUlplcM
   <img src="http://testbase.ru/wp-content/uploads/2014/12/1419215448_Mind-Map-Paper-64.png" title="Java" alt="Java" width="45" height="45"/>&nbsp;
            <a href="https://github.com/viktor7cr7/Postman">
   <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_macos_bigsur_icon_189815.png" title="Java" alt="Java" width="45" height="45"/>&nbsp;
- 
+ ---
+             
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=viktor7cr7&theme=dark&background=000000)](https://git.io/streak-stats)     
+             
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viktor7cr7&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)             
+             
+             
                                                                                   
                                                                                    
