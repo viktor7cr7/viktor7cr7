@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/viktor-leonov-405406239">
     <img src="https://img.shields.io/badge/Linkedin-yellow?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/viktor-leonov-405406239">
+  <a href="https://t.me/Forch2019">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt='Linkedin Badge'/>
   </a>
       
