@@ -39,17 +39,17 @@ Hi. I am a beginner QA Engineer  <img src="https://media.giphy.com/media/WUlplcM
 <div id="header" align="center">  
 <div>
 <a href="https://github.com/viktor7cr7/JavaScript">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <a href="https://github.com/viktor7cr7/git_bash">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git_bash" alt="Git_bash" width="40" height="40"/>&nbsp;
     <a href="https://github.com/viktor7cr7/SQL">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
       <a href="https://www.youtube.com/watch?v=UGgy4j7RDdw&t=13s">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" title="ChromeDevTools" alt="ChromeDevTools" width="40" height="40"/>&nbsp;
         <a href="https://github.com/viktor7cr7/Test-artifacts/blob/main/test%20artifacts.md">
-  <img src="http://testbase.ru/wp-content/uploads/2014/12/1419215448_Mind-Map-Paper-64.png" title="Java" alt="Java" width="45" height="45"/>&nbsp;
+  <img src="http://testbase.ru/wp-content/uploads/2014/12/1419215448_Mind-Map-Paper-64.png" title="Test-artifacts" alt="Test-artifacts" width="45" height="45"/>&nbsp;
            <a href="https://github.com/viktor7cr7/Postman">
-  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_macos_bigsur_icon_189815.png" title="Java" alt="Java" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_macos_bigsur_icon_189815.png" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
  ---
              
 ### :fire: My Stats :
