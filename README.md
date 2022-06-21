@@ -6,7 +6,7 @@
 
 <div id="header" align="center">
 <div id="badges">
-  <a href=https://www.linkedin.com/in/viktor-leonov-405406239">
+  <a href="https://www.linkedin.com/in/viktor-leonov-405406239">
     <img src="https://img.shields.io/badge/Linkedin-yellow?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/viktor-leonov-405406239">
